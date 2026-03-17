@@ -28,7 +28,7 @@ const IdentityColumn = () => {
             MUHAMMED SINAN
           </h1>
           <p className="text-muted-foreground font-mono text-sm tracking-tight mb-8">
-            JUNIOR FULL STACK DEVELOPER / 11.8516° N, 75.8461° E
+             FULL STACK DEVELOPER 
           </p>
 
           <div className="space-y-4">
